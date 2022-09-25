@@ -8,7 +8,7 @@ export const productionConfig: Config = {
   },
 
   cors: {
-    origin: 'my-domain.com',
+    origin: '*',
     credentials: true,
   },
   log: {
