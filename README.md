@@ -1,2 +1,2 @@
-# node-serverless-template
-Serverless template for vercel
+# Programmer Humor API
+Unofficial API for [ProgrammerHumor.io](https://programmerhumor.io)
