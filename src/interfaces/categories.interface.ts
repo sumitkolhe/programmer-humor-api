@@ -1,0 +1,15 @@
+export enum Category {
+  programming = 'programming',
+  backend = 'backend',
+  frontend = 'frontend',
+  debugging = 'debugging',
+  linux = 'linux',
+  python = 'python',
+  java = 'java',
+  testing = 'testing',
+  javascript = 'javascript',
+  stackoverflow = 'stackoverflow',
+  databases = 'databases',
+  cloud = 'cloud',
+  php = 'php',
+}
